@@ -2,7 +2,7 @@
 ## Some thing about me!
 - 👋 Hi, I’m @Rahul2661998
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m currently exploring deep learning
 - 💞️ I’m looking to collaborate on case study on NYC bike sharing data analysis
 - 📫 How to reach me www.linkedin.com/in/rahul-pandey-73a413187
 
